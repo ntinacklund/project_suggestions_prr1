@@ -1,6 +1,6 @@
 # Projektförslag för PRR1
 
-Detta repository består av projektförslag till kursen Programmering 1 påå Gymnasiet. Vissa uppgifter kräver att en fördjupar sig i vissa saker, exempelvis filhantering eller klasser, något som inte ingår i kursen.
+Detta repository består av projektförslag till kursen Programmering 1 på Gymnasiet. Vissa uppgifter kräver att en fördjupar sig i vissa saker, exempelvis filhantering eller klasser, något som inte ingår i kursen.
 
 Läs noga uppgiftslydelsen innan du påbörjar ditt kodande.
 
