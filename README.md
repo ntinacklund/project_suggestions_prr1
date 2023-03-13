@@ -12,7 +12,7 @@ Läs noga uppgiftslydelsen innan du påbörjar ditt kodande.
 - [Inloggningsystemet](https://github.com/ntinacklund/login_system_template)
 - [Registreringsskyltssystemet](https://github.com/ntinacklund/car_registry_template)
 - [Mastermind](https://github.com/ntinacklund/mastermind_template)
-- [Zoo-besöket](github.com/ntinacklund/zoo_template)
+- [Zoo-besöket](https://github.com/ntinacklund/zoo_template)
 - [Minesweeper](https://github.com/ntinacklund/minesweeper_template)
 - [Kösimulering](https://github.com/ntinacklund/queue_simulator_template)
 
