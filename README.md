@@ -9,7 +9,7 @@ Läs noga uppgiftslydelsen innan du påbörjar ditt kodande.
 - [Quizprogram](github.com/ntinacklund/quiz_template)
 - [NTImagotchin](https://github.com/ntinacklund/tamagotchi_template)
 - [Yatzyprotokollet](https://github.com/ntinacklund/yatzy_template)
-- [Inloggningsystemet](https://github.com/ntinacklund/yatzy_template)
+- [Inloggningsystemet](https://github.com/ntinacklund/login_system_template)
 - [Registreringsskyltssystemet](https://github.com/ntinacklund/car_registry_template)
 - [Mastermind](https://github.com/ntinacklund/mastermind_template)
 - [Zoo-besöket](github.com/ntinacklund/zoo_template)
