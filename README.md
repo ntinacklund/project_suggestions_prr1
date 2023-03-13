@@ -6,7 +6,7 @@ Läs noga uppgiftslydelsen innan du påbörjar ditt kodande.
 
 ## Länkar till förslag
 
-- [Quizprogram](github.com/ntinacklund/quiz_template)
+- [Quizprogram](https://github.com/ntinacklund/quiz_template)
 - [NTImagotchin](https://github.com/ntinacklund/tamagotchi_template)
 - [Yatzyprotokollet](https://github.com/ntinacklund/yatzy_template)
 - [Inloggningsystemet](https://github.com/ntinacklund/login_system_template)
